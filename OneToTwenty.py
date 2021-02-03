@@ -1,0 +1,26 @@
+#YourName: P Dhayanandh
+import math
+print("Zero is:",44-44)
+print("One is:",44//44)
+print("Two is:",4//4+4//4)
+print("Three is:",int(math.sqrt(4)+4//4))
+print("Four is:",int(math.sqrt(4*4)+4-4))
+print("Five is:",int(math.sqrt(4*4)+4/4))
+print("Six is:",int(math.sqrt(4*4)-2+4))
+print("Seven is:",44//4-4)
+print("Eight is:",4*4//4+4)
+print("Nine is:",4//4+4+4)
+print("Ten is:",int(math.factorial(4)-4*4+math.sqrt(4)))
+a=int(math.sqrt(4)+math.sqrt(4))
+print("Eleven is:",44//a)
+print("Twelve is:",math.factorial(4)//4+math.factorial(4)//4)
+print("Thirteen is:",int(44//4+math.sqrt(4)))
+print("Fourteen is:",math.factorial(4)//4+4+4)
+print("Fivteen is:",44//4+4)
+print("Sixteen is:",math.factorial(4)-4*-4-math.factorial(4))
+print("Seventeen is:",4//4+4*4)
+print("Eighteen is:",int(math.factorial(4)-4-math.sqrt(4)))
+print("Nineteeen is:",int(math.factorial(4)-4-4/4))
+print("Twenty is:",math.factorial(4)-4+math.factorial(4)-math.factorial(4))
+
+
